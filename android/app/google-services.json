@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866197485125",
+    "project_id": "responsive-b6c2b",
+    "storage_bucket": "responsive-b6c2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866197485125:android:e7bed918dd841d74f5952c",
+        "android_client_info": {
+          "package_name": "com.jayan.responsive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3n6eBfiiMsmF03YbgS5r59X0o7ho8Zls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
